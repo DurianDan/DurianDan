@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duriandan&label=Profile%20views&color=0e75b6&style=flat" alt="duriandan" /> </p>
 
-- 🌱 I’m currently learning **data engineering, cloud architecture, cicd, being mindful, etc.**
+- 🌱 I’m currently learning **data engineering, AI engineering, cicd, being mindful, etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DurianDan](https://github.com/DurianDan)
 
-- 💬 Ask me about **python, clean code, selenium, docker, cooking mỳ màu etc.**
+- 💬 Ask me about **python, typescript, design patterns, clean code, puppeteer, pandas, cooking mỳ màu etc.**
 
 - 📫 How to reach me **huyk25sinh@gmail.com**
 
