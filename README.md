@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **data engineering in healthcare, dbt, Airflow, and more**.
 
-- 📫 How to reach me: **huyk25sinh@gmail.com**
+- 📫 How to reach me: **vee.theengineer@gmail.com**
 
 - 📄 Know about my experiences: [data-engineer-resumes](https://drive.google.com/drive/folders/1lVraXmqMLyVrq7ke6ayyfxE8unyJ6vJU?usp=sharing)
 
